@@ -1,3 +1,6 @@
 This is the day 1of B20 class
 
 change at the same time
+
+
+I am making some changes on file1.txt under B20-Day1 Repository
